@@ -4,6 +4,10 @@
 
 This course is primarily designed for undergraduate students. Students become familiar with mathematics for computer science/engineer  and terminologies.
 
+## Record
+- [Homework-1 (21-Aug-2019)](https://drive.google.com/file/d/1heySHeoBxk8fE8prMimylZDzDDZw3liR/view?usp=sharing)
+- [Quiz-1 (21-Aug-2019)](https://drive.google.com/file/d/10stjNWI1B2uddyPDwXujDjTlwKtRUC1H/view?usp=sharing)
+
 ## Resources
 
 | Lect# | Date | Description  |Slide| Assignment Due Date |
