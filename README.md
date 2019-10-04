@@ -5,9 +5,10 @@
 This course is primarily designed for undergraduate students. Students become familiar with mathematics for computer science/engineer  and terminologies.
 
 ## Record
-- [Homework (26-Sep-2019)](https://drive.google.com/open?id=1uw6sxFdAiF8d0NzKZjdPpnuj8pKkdmE8):new:
+- [Homework (4-Oct-2019)](https://drive.google.com/file/d/18WfY7KyjpC9wggE6fhLpC0q5sukekJcj/view?usp=sharing):new:
 - [Quiz-1 (21-Aug-2019)](https://drive.google.com/file/d/10stjNWI1B2uddyPDwXujDjTlwKtRUC1H/view?usp=sharing)
 ### Archive (Old)
+- [Homework (26-Sep-2019)](https://drive.google.com/open?id=1uw6sxFdAiF8d0NzKZjdPpnuj8pKkdmE8)
 - [Homework (20-Sep-2019)](https://drive.google.com/open?id=1xNS173ZGws466XoVQki_2q_fSZoYCcUW)
 - [Homework (4-Sep-2019)](https://drive.google.com/open?id=1acLGdZhFsf6f5CTZDkSogDZ9r-931bOo)
 - [Homework (31-Aug-2019)](https://drive.google.com/open?id=12-mQXXspDdtazxvwXxtZpg3tg_EU6DIl)
