@@ -16,5 +16,5 @@ This course is primarily designed for undergraduate students. Students become fa
 
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
-|  8 |Wed 8-Jan-2020 (9:00-12:00)| Axiom and Graph | **Slide** <br> - [mce-week-8-axiom.pdf]() <br> **Supplements** <br> - [An Introduction to Combinatorics and Graph Theory](https://drive.google.com/open?id=1FIYrOkzCcNciNT4ve8i-v20hMtHhTYiw) | HW-1|
+|  8 |Wed 8-Jan-2020 (9:00-12:00)| Axiom and Graph | **Slide** <br> - [mce-week-8-axiom.pdf]() <br> **Supplements** <br> - Prof.Ivo Düntscha [Methodos Primers 1: Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/archive/methprimer1.pdf) | HW-1|
 
